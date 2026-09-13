@@ -1,14 +1,20 @@
 # Tushar Satpute — Frontend Developer Portfolio
 
-Premium responsive developer portfolio built with semantic HTML, CSS and vanilla JavaScript.
+Premium responsive developer portfolio built with semantic HTML, CSS and JavaScript.
 
 ## Featured Projects
+- Amazon-Inspired E-Commerce Frontend — HTML, CSS, JavaScript
 - NOVA — React E-Commerce & Analytics Dashboard
-- Amazon-Inspired E-Commerce Frontend
-- Resume AI
+- Resume AI — Python / AI
 
-## Run locally
-Open `index.html` directly or serve the folder with any static development server.
+## Contact
+- Email: tssatpute2004@gmail.com
+- Phone: +91 70201 70572
+- LinkedIn: https://www.linkedin.com/in/tushar-satpute-6083532a1/
+- GitHub: https://github.com/TusharSatpute10
+
+## Run
+Open `index.html` directly or serve the folder with a static development server.
 
 ## Deployment
-The portfolio is ready for Vercel static deployment.
+Ready for Vercel static deployment.
